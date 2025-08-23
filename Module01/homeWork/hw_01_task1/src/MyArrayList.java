@@ -1,9 +1,3 @@
-// Aston
-// Java online
-// Module #1
-// Task #1
-// Реализовать собственный аналог ArrayList (должны быть основные методы add, get, remove, addAll)
-
 import java.util.Collection;
 
 public class MyArrayList <T>
