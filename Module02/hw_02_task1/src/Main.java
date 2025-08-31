@@ -27,7 +27,6 @@ public class Main
             System.out.println(exception.getMessage());
         }
 
-
         try
         {
             fileHandlerBinary.write(books);
